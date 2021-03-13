@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ZuzaKot
+- 👀 I’m interested in programming, developing and creating everything I can imagine.
+- 🌱 I’m currently learning programming in C# and designing software architecture.
