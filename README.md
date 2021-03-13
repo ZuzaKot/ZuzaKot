@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @ZuzaKot
+- 👋 Hi, I’m @ZuzaKot. I learn programming since autumn 2019.
 - 👀 I’m interested in programming, developing and creating everything I can imagine.
 - 🌱 I’m currently learning programming in C# and designing software architecture.
+- I have got little experience with front-end (html5+css3+js) and back-end (C#, php5.6-php7 + mysql) also.
